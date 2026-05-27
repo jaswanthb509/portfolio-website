@@ -1,16 +1,56 @@
-# React + Vite
+# 💼 Jaswanth Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern and responsive Full Stack Developer portfolio website built using React.js, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tech Stack
 
-## React Compiler
+* React.js
+* Tailwind CSS
+* Vite
+* JavaScript
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Modern UI Design
+* Responsive Layout
+* Smooth Hover Effects
+* Skills Section
+* Developer Portfolio Showcase
+* Fast Performance with Vite
+
+---
+
+## 📸 Preview
+
+Portfolio website showcasing:
+
+* About Me
+* Skills
+* Projects
+* Contact Information
+
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/bhukya-jaswanth-0346bb28a/
+* GitHub: https://github.com/jaswanthb509
+
+---
+
+## ⚡ Installation
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 📌 Status
+
+Currently under active development.
