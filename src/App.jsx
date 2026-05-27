@@ -306,6 +306,96 @@ return ( <div className="min-h-screen bg-black text-white">
 
 </section>
 
+{/* Contact Section */}
+
+<section className="bg-black py-24 px-6">
+
+  <div className="max-w-4xl mx-auto text-center">
+
+```
+<h2 className="text-4xl font-bold text-green-400 mb-8">
+  Contact Me
+</h2>
+
+<p className="text-gray-400 text-lg mb-12">
+
+  I’m currently open to internships, collaborations,
+  and exciting development opportunities.
+
+</p>
+
+<div className="flex flex-col md:flex-row justify-center gap-6">
+
+  {/* Email */}
+  <a
+    href="mailto:bjaswanth6130@gmail.com"
+    className="bg-gray-900 border border-gray-800 px-8 py-4 rounded-2xl hover:border-green-400 hover:scale-105 transition duration-300"
+  >
+
+    <h3 className="text-xl font-semibold text-white mb-2">
+      Email
+    </h3>
+
+    <p className="text-gray-400">
+      bjaswanth6130@gmail.com
+    </p>
+
+  </a>
+
+  {/* LinkedIn */}
+  <a
+    href="https://www.linkedin.com/in/bhukya-jaswanth-0346bb28a/"
+    target="_blank"
+    rel="noreferrer"
+    className="bg-gray-900 border border-gray-800 px-8 py-4 rounded-2xl hover:border-green-400 hover:scale-105 transition duration-300"
+  >
+
+    <h3 className="text-xl font-semibold text-white mb-2">
+      LinkedIn
+    </h3>
+
+    <p className="text-gray-400">
+      Connect Professionally
+    </p>
+
+  </a>
+
+  {/* GitHub */}
+  <a
+    href="https://github.com/jaswanthb509"
+    target="_blank"
+    rel="noreferrer"
+    className="bg-gray-900 border border-gray-800 px-8 py-4 rounded-2xl hover:border-green-400 hover:scale-105 transition duration-300"
+  >
+
+    <h3 className="text-xl font-semibold text-white mb-2">
+      GitHub
+    </h3>
+
+    <p className="text-gray-400">
+      View My Projects
+    </p>
+
+  </a>
+
+</div>
+```
+
+  </div>
+
+</section>
+
+
+{/* Footer */}
+
+<footer className="border-t border-gray-800 py-6 text-center text-gray-500">
+
+  <p>
+    © 2026 Jaswanth. Built with React.js & Tailwind CSS.
+  </p>
+
+</footer>
+
 
 
   </div>
